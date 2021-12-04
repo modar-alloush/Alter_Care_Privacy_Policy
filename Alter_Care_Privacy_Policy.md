@@ -13,7 +13,7 @@ Advertising partners and other third parties may use cookies, scripts and/or web
 The security of your personal information is important to me, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While I strive to use commercially acceptable means to protect your personal information, I cannot guarantee its absolute security.
 
 ## Collection of Routine Information
-This app do not track any information about their users.
+This app dose not track any information about their users.
 
 
 ## Changes To This Privacy Policy
